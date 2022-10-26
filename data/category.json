@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "JavaScript Developer"
+    },
+    {
+        "id": 2,
+        "name": "Diploma in Web Design"
+    },
+    {
+        "id": 3,
+        "name": "Computer Training"
+    },
+    {
+        "id": 4,
+        "name": "Web Development Fundamentals"
+    },
+    {
+        "id": 5,
+        "name": "Diploma in HTML5, CSS3 and JavaScript"
+    },
+    {
+        "id": 6,
+        "name": "IT Capstone Written Project"
+    }
+]
