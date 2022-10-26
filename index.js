@@ -20,6 +20,11 @@ app.get('/category', (req, res) => {
     res.send(category)
 })
 
+app.get('/singleCourse/:id', (req, res) => {
+    const id = req.params.id;
+    const courseItem = courses.find(ca => ca.id == id);
+    res.send(courseItem)
+})
 
 app.listen(port, () => {
     console.log(`learning server running on port number${port}`);
