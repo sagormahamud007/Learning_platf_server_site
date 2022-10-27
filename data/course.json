@@ -9,7 +9,8 @@
         "startDate": "1 DEC 2023",
         "time": "14:00 - 16:00",
         "duration": "176 HRS",
-        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession."
+        "comment": 10,
+        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession..."
     },
     {
         "id": 2,
@@ -21,7 +22,8 @@
         "startDate": "2 nov 2022",
         "time": "14:00 - 16:00",
         "duration": "186 HRS",
-        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession."
+        "comment": 10,
+        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession..."
     },
     {
         "id": 3,
@@ -33,7 +35,8 @@
         "startDate": "20 nov 2022",
         "time": "14:00 - 16:00",
         "duration": "190 HRS",
-        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession."
+        "comment": 10,
+        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession..."
     },
     {
         "id": 4,
@@ -41,11 +44,12 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpzWSuxkOfZ79D9O3185e8NRojT5cJ2bsGA&usqp=CAU",
         "review": 5,
         "price": 130,
+        "comment": 10,
         "description": "COMPUTER SCIENCE, INFORMATION SYSTEMS, IT & SOFTWARE, PROGRAMMING LANGUAGE",
         "startDate": "1 DEC 2023",
         "time": "14:00 - 16:00",
         "duration": "190 HRS",
-        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession."
+        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession..."
     },
     {
         "id": 5,
@@ -53,11 +57,12 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3i8OlTFXCg8gjAwKjoOQrxGgj6tn04ML9A&usqp=CAU",
         "review": 4.5,
         "price": 150,
+        "comment": 10,
         "description": "COMPUTER SCIENCE, INFORMATION SYSTEMS, IT & SOFTWARE, PROGRAMMING LANGUAGE",
         "startDate": "10 DEC 2023",
         "time": "14:00 - 16:00",
         "duration": "176 HRS",
-        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession."
+        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession..."
     },
     {
         "id": 6,
@@ -66,9 +71,10 @@
         "description": "COMPUTER SCIENCE, INFORMATION SYSTEMS, IT & SOFTWARE, PROGRAMMING LANGUAGE",
         "review": 3.5,
         "price": 135,
+        "comment": 10,
         "startDate": "1 DEC 2023",
         "time": "14:00 - 16:00",
         "duration": "160 HRS",
-        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession."
+        "futures": "ISTQB Certified Tester is the most widespread qualification scheme in the world, and the syllabi contents and glossary have become the de facto industry reference for the software testing profession..."
     }
 ]
