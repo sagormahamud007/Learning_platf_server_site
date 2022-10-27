@@ -27,5 +27,5 @@ app.get('/singleCourse/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`learning server running on port number${port}`);
+    console.log(`learning server running on the port number${port}`);
 })
